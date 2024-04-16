@@ -3,4 +3,7 @@ VISION-BASED HUMAN ACTIVITY RECOGNITION USING DEEP LEARNING
 CS5720 Neural Network Deep Learning - Project
 
 Name: Yasaswini Majety
+
 ID: 700747747
+
+CRN: 23441
